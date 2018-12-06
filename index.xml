@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerial</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aerial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Silvan</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Silvan is a student who undersatands the interaction of atmosphere - ocean - ecosystem through atmospheric science and wants to do the work to cope with climate change that may happen to our generation in the future.
+History  2012 B.S. Department of Atmospheric Sciences, Seoul, South Korea 2015 The Weather Group in the Air Force as a Weather Officer(1st Lt) 2020(expected) M.S. Department of Atmospheric Sciences, Seoul, South Korea  Learn more please contact on ask me on email</description>
+    </item>
+    
+  </channel>
+</rss>
